@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eteordbic.github.io/eteordbic.txt.gz
+Sitemap: https://eteordbic.github.io/app/eteordbic.txt.gz
+Sitemap: https://eteordbic.github.io/assets/eteordbic.txt.gz
+Sitemap: https://eteordbic.github.io/css/eteordbic.txt.gz
+Sitemap: https://eteordbic.github.io/includes/eteordbic.txt.gz
+Sitemap: https://eteordbic.github.io/item/eteordbic.txt.gz
+Sitemap: https://eteordbic.github.io/src/eteordbic.txt.gz
